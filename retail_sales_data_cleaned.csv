@@ -1,0 +1,221 @@
+Transaction_ID,Date,Category,Region,Store,Quantity,Discount_Percent,Sales,Customer_Rating
+TX1001,2025-01-01,Grocery,East,Online,3,25,32.83,3.2
+TX1003,2025-01-03,Clothing,North,Online,2,5,75.57,2.6
+TX1004,2025-01-04,Beauty,South,Online,5,15,138.07,4.1
+TX1005,2025-01-05,Beauty,West,Online,5,0,131.33,4.3
+TX1006,2025-01-06,Home,East,Store A,5,5,250.53,3.7
+TX1007,2025-01-07,Grocery,South,Store B,7,0,76.14,3.4
+TX1008,2025-01-08,Beauty,West,Store B,4,15,139.37,3.8
+TX1009,2025-01-09,Grocery,West,Store A,7,10,140.72,4.2
+TX1010,2025-01-10,Clothing,West,Store B,5,5,182.12,3.7
+TX1012,2025-01-12,Home,South,Online,5,0,291.75,4.0
+TX1013,2025-01-13,Beauty,East,Store C,2,10,175.09,4.5
+TX1014,2025-01-14,Clothing,South,Online,7,0,252.79,4.3
+TX1015,2025-01-15,Grocery,West,Online,5,0,98.06,1.9
+TX1016,2025-01-16,Clothing,East,Store B,7,10,259.28,4.4
+TX1017,2025-01-17,Home,North,Store C,6,15,287.26,4.8
+TX1018,2025-01-18,Beauty,South,Online,2,25,34.38,3.3
+TX1019,2025-01-19,Home,South,Store C,9,10,418.86,3.6
+TX1021,2025-01-21,Electronics,East,Online,4,15,310.37,4.5
+TX1022,2025-01-22,Beauty,North,Store A,8,0,249.46,4.3
+TX1023,2025-01-23,Grocery,North,Store B,9,15,119.59,3.5
+TX1024,2025-01-24,Grocery,East,Online,9,20,145.23,4.7
+TX1025,2025-01-25,Beauty,West,Online,1,10,33.03,4.6
+TX1026,2025-01-26,Clothing,East,Store B,9,15,443.33,4.7
+TX1027,2025-01-27,Clothing,West,Store A,5,10,173.93,4.3
+TX1028,2025-01-28,Beauty,West,Store A,4,20,77.27,4.2
+TX1029,2025-01-29,Clothing,South,Store A,6,15,248.47,4.2
+TX1030,2025-01-30,Grocery,West,Online,4,5,75.73,5.0
+TX1032,2025-02-01,Home,West,Store C,2,5,135.18,4.3
+TX1033,2025-02-02,Grocery,West,Store A,7,15,121.13,4.4
+TX1035,2025-02-04,Electronics,South,Online,1,15,83.81,3.8
+TX1036,2025-02-05,Grocery,East,Store B,8,20,129.71,4.0
+TX1037,2025-02-06,Grocery,South,Store A,5,15,95.41,4.8
+TX1038,2025-02-07,Clothing,North,Store B,5,0,264.18,3.9
+TX1039,2025-02-08,Clothing,North,Store A,8,25,206.12,4.1
+TX1040,2025-02-09,Beauty,South,Online,5,5,153.3,4.3
+TX1041,2025-02-10,Electronics,West,Store B,3,0,296.7,3.7
+TX1042,2025-02-11,Electronics,South,Store A,4,10,247.22,4.4
+TX1043,2025-02-12,Beauty,North,Online,6,20,178.42,3.4
+TX1044,2025-02-13,Grocery,South,Store A,2,10,28.05,4.1
+TX1045,2025-02-14,Grocery,South,Store A,6,15,96.65,4.6
+TX1046,2025-02-15,Beauty,East,Store C,2,5,65.31,3.5
+TX1047,2025-02-16,Beauty,West,Store C,7,10,218.55,4.2
+TX1048,2025-02-17,Home,East,Store C,3,0,177.97,4.6
+TX1049,2025-02-18,Grocery,West,Store A,6,10,124.36,4.5
+TX1050,2025-02-19,Grocery,East,Store A,2,0,30.55,4.0
+TX1051,2025-02-20,Beauty,East,Store B,8,0,177.57,5.0
+TX1052,2025-02-21,Clothing,North,Online,8,20,194.73,5.0
+TX1053,2025-02-22,Beauty,South,Store B,9,5,334.74,3.9
+TX1054,2025-02-23,Home,North,Store B,8,0,529.59,4.2
+TX1055,2025-02-24,Grocery,East,Store A,1,10,23.6,4.0
+TX1056,2025-02-25,Home,North,Online,7,10,380.41,4.3
+TX1057,2025-02-26,Beauty,East,Store B,8,15,133.85,4.1
+TX1058,2025-02-27,Beauty,West,Store A,9,0,252.02,5.0
+TX1059,2025-02-28,Electronics,South,Online,2,0,187.59,5.0
+TX1060,2025-03-01,Clothing,North,Store A,1,10,41.34,3.5
+TX1061,2025-03-02,Home,South,Store A,9,15,571.77,4.9
+TX1062,2025-03-03,Clothing,South,Online,6,15,279.24,4.2
+TX1063,2025-03-04,Clothing,West,Store B,7,10,327.22,4.4
+TX1064,2025-03-05,Grocery,South,Store A,3,15,54.31,3.8
+TX1065,2025-03-06,Electronics,West,Store A,6,15,429.97,5.0
+TX1066,2025-03-07,Home,West,Store B,6,20,464.31,4.6
+TX1067,2025-03-08,Beauty,West,Online,7,0,220.91,3.8
+TX1068,2025-03-09,Grocery,West,Store A,9,10,159.57,3.9
+TX1069,2025-03-10,Home,East,Store A,5,0,398.03,4.2
+TX1070,2025-03-11,Beauty,North,Store B,6,10,180.56,3.4
+TX1071,2025-03-12,Grocery,North,Store C,6,5,112.86,3.8
+TX1072,2025-03-13,Clothing,North,Store A,7,10,199.91,4.6
+TX1073,2025-03-14,Beauty,East,Store C,8,20,262.07,3.4
+TX1074,2025-03-15,Home,West,Store C,4,10,266.74,3.2
+TX1075,2025-03-16,Beauty,East,Store B,1,0,175.09,3.6
+TX1076,2025-03-17,Home,West,Online,9,0,531.34,3.7
+TX1077,2025-03-18,Beauty,South,Store A,1,5,29.78,3.1
+TX1078,2025-03-19,Clothing,North,Store A,9,15,293.28,3.9
+TX1079,2025-03-20,Beauty,South,Online,3,0,80.8,3.2
+TX1080,2025-03-21,Clothing,South,Online,5,5,240.93,3.5
+TX1081,2025-03-22,Home,South,Store A,2,25,110.2,3.4
+TX1082,2025-03-23,Clothing,South,Store B,2,10,65.55,4.3
+TX1083,2025-03-24,Clothing,East,Store A,1,10,41.29,4.0
+TX1084,2025-03-25,Electronics,South,Online,2,5,226.45,3.5
+TX1085,2025-03-26,Grocery,South,Online,7,10,136.91,3.9
+TX1087,2025-03-28,Electronics,West,Store A,2,10,166.84,4.2
+TX1088,2025-03-29,Electronics,East,Online,2,0,269.25,4.6
+TX1089,2025-03-30,Beauty,West,Store C,4,20,114.32,4.3
+TX1090,2025-03-31,Home,South,Online,6,25,268.25,5.0
+TX1091,2025-04-01,Beauty,East,Online,2,15,51.91,4.0
+TX1092,2025-04-02,Grocery,West,Store B,5,10,67.15,4.9
+TX1093,2025-04-03,Beauty,West,Store A,6,10,213.51,3.3
+TX1094,2025-04-04,Home,East,Online,2,15,130.04,4.8
+TX1095,2025-04-05,Electronics,South,Online,5,20,562.62,4.8
+TX1096,2025-04-06,Clothing,East,Store A,7,15,267.9,4.8
+TX1097,2025-04-07,Beauty,West,Store B,4,20,121.24,3.6
+TX1098,2025-04-08,Clothing,East,Store B,4,10,181.82,4.4
+TX1099,2025-04-09,Home,North,Online,3,10,169.21,4.2
+TX1100,2025-04-10,Home,South,Store C,9,15,516.66,3.4
+TX1101,2025-04-11,Home,West,Store B,6,10,364.74,4.6
+TX1102,2025-04-12,Electronics,East,Store C,1,25,64.52,4.4
+TX1103,2025-04-13,Clothing,North,Online,2,15,66.12,5.0
+TX1104,2025-04-14,Home,East,Store A,4,25,208.66,4.9
+TX1105,2025-04-15,Clothing,North,Store B,6,0,267.5,4.0
+TX1106,2025-04-16,Beauty,South,Store C,6,0,185.53,4.2
+TX1107,2025-04-17,Beauty,South,Store A,3,10,126.28,3.9
+TX1108,2025-04-18,Grocery,North,Store B,9,5,148.68,3.2
+TX1109,2025-04-19,Home,North,Online,9,0,433.66,4.8
+TX1110,2025-04-20,Electronics,West,Online,6,20,467.97,3.2
+TX1111,2025-04-21,Home,East,Store B,5,10,255.37,3.3
+TX1114,2025-04-24,Clothing,South,Online,2,15,65.77,3.4
+TX1115,2025-04-25,Clothing,East,Store C,9,10,399.43,3.2
+TX1116,2025-04-26,Beauty,South,Online,7,5,230.91,4.0
+TX1117,2025-04-27,Clothing,East,Store A,8,20,245.59,3.7
+TX1118,2025-04-28,Clothing,East,Online,8,0,415.57,4.6
+TX1119,2025-04-29,Clothing,South,Store B,3,25,68.81,3.8
+TX1120,2025-04-30,Grocery,East,Store C,7,5,68.76,3.8
+TX1121,2025-05-01,Home,North,Online,1,20,55.49,3.8
+TX1122,2025-05-02,Home,West,Online,1,25,36.2,4.4
+TX1124,2025-05-04,Clothing,West,Store A,8,25,197.66,4.4
+TX1125,2025-05-05,Beauty,North,Store A,1,10,44.04,4.1
+TX1126,2025-05-06,Grocery,West,Store B,1,10,19.72,3.8
+TX1127,2025-05-07,Beauty,South,Store B,2,10,35.5,4.5
+TX1128,2025-05-08,Clothing,West,Store C,4,0,167.74,3.8
+TX1129,2025-05-09,Electronics,East,Online,7,5,538.64,3.0
+TX1130,2025-05-10,Home,South,Store C,1,0,66.64,4.1
+TX1131,2025-05-11,Home,East,Store B,5,10,284.33,4.2
+TX1132,2025-05-12,Grocery,East,Store B,5,20,87.14,3.9
+TX1133,2025-05-13,Beauty,West,Online,1,0,40.0,3.3
+TX1134,2025-05-14,Grocery,West,Store A,2,0,44.28,4.2
+TX1135,2025-05-15,Home,West,Store B,9,5,437.05,4.1
+TX1136,2025-05-16,Electronics,South,Store C,2,10,134.16,4.4
+TX1137,2025-05-17,Grocery,South,Store C,6,5,122.73,4.7
+TX1138,2025-05-18,Clothing,North,Store B,2,10,49.55,4.2
+TX1139,2025-05-19,Home,North,Store C,3,25,152.94,4.8
+TX1140,2025-05-20,Clothing,West,Store B,7,0,336.41,4.5
+TX1141,2025-05-21,Grocery,South,Online,6,10,95.01,4.8
+TX1142,2025-05-22,Beauty,South,Store B,2,20,73.96,4.2
+TX1143,2025-05-23,Home,South,Store C,8,20,506.14,4.5
+TX1144,2025-05-24,Home,South,Online,4,0,211.92,4.5
+TX1146,2025-05-26,Clothing,West,Store C,7,10,218.21,4.1
+TX1147,2025-05-27,Beauty,East,Store C,6,10,131.6,3.7
+TX1149,2025-05-29,Grocery,West,Store B,6,10,93.14,4.2
+TX1150,2025-05-30,Clothing,South,Online,1,20,29.56,4.2
+TX1151,2025-05-31,Beauty,West,Online,2,10,41.62,3.9
+TX1152,2025-06-01,Clothing,West,Store A,7,5,175.09,3.4
+TX1153,2025-06-02,Electronics,South,Online,2,15,194.18,4.8
+TX1155,2025-06-04,Beauty,South,Online,1,0,31.79,4.3
+TX1156,2025-06-05,Clothing,West,Online,6,0,233.54,5.0
+TX1157,2025-06-06,Beauty,North,Store C,4,20,77.06,4.5
+TX1158,2025-06-07,Clothing,North,Store B,1,10,46.59,4.2
+TX1159,2025-06-08,Electronics,East,Online,8,15,526.04,4.7
+TX1161,2025-06-10,Grocery,North,Online,7,20,134.48,4.2
+TX1162,2025-06-11,Clothing,East,Store A,7,20,192.12,4.3
+TX1163,2025-06-12,Home,West,Store B,1,0,78.0,3.9
+TX1164,2025-06-13,Clothing,West,Store C,2,0,96.63,3.8
+TX1165,2025-06-14,Clothing,South,Store A,9,15,373.16,4.2
+TX1166,2025-06-15,Beauty,East,Store A,2,0,40.79,4.7
+TX1168,2025-06-17,Home,East,Store B,4,0,298.67,4.4
+TX1170,2025-06-19,Home,West,Online,3,25,139.85,4.3
+TX1171,2025-06-20,Clothing,East,Online,2,0,97.65,3.9
+TX1172,2025-06-21,Electronics,West,Online,4,20,484.91,3.4
+TX1173,2025-06-22,Clothing,North,Store A,7,0,285.94,4.0
+TX1174,2025-06-23,Grocery,West,Online,1,5,18.15,5.0
+TX1175,2025-06-24,Beauty,North,Store A,1,10,24.13,4.1
+TX1176,2025-06-25,Home,East,Store B,9,25,518.63,3.9
+TX1177,2025-06-26,Beauty,South,Store B,4,20,76.04,4.5
+TX1178,2025-06-27,Clothing,West,Online,5,20,178.89,3.5
+TX1179,2025-06-28,Home,East,Store C,8,10,509.49,3.8
+TX1180,2025-06-29,Clothing,North,Store C,2,10,102.86,4.5
+TX1181,2025-06-30,Clothing,North,Online,9,15,295.11,4.4
+TX1182,2025-07-01,Electronics,West,Store B,3,5,202.7,3.4
+TX1183,2025-07-02,Home,South,Store B,1,15,59.72,5.0
+TX1184,2025-07-03,Beauty,South,Store B,8,10,224.57,4.5
+TX1185,2025-07-04,Grocery,North,Store B,4,0,51.11,4.0
+TX1186,2025-07-05,Beauty,East,Store A,3,0,111.25,3.8
+TX1187,2025-07-06,Home,West,Store B,7,10,339.7,4.1
+TX1188,2025-07-07,Home,South,Store C,6,0,461.04,4.7
+TX1190,2025-07-09,Beauty,West,Store A,4,20,106.67,3.8
+TX1191,2025-07-10,Grocery,East,Online,7,0,122.26,4.2
+TX1192,2025-07-11,Home,West,Store C,1,15,65.85,4.4
+TX1193,2025-07-12,Beauty,East,Store C,4,0,132.73,4.2
+TX1194,2025-07-13,Clothing,South,Store A,3,15,113.78,3.6
+TX1195,2025-07-14,Electronics,East,Online,4,0,530.73,4.1
+TX1196,2025-07-15,Clothing,North,Online,1,10,25.51,4.7
+TX1197,2025-07-16,Clothing,South,Store A,9,10,264.42,3.7
+TX1198,2025-07-17,Beauty,West,Store B,7,20,176.25,3.3
+TX1199,2025-07-18,Grocery,East,Online,9,20,123.57,3.4
+TX1200,2025-07-19,Home,East,Store B,9,10,503.2,4.0
+TX1201,2025-07-20,Clothing,South,Store A,1,15,39.77,4.0
+TX1202,2025-07-21,Grocery,West,Store B,8,20,101.91,3.1
+TX1203,2025-07-22,Grocery,South,Online,9,10,140.46,4.6
+TX1204,2025-07-23,Grocery,West,Store A,1,20,17.71,3.5
+TX1205,2025-07-24,Grocery,North,Store B,3,0,58.23,3.8
+TX1206,2025-07-25,Clothing,West,Store A,9,10,175.09,4.2
+TX1207,2025-07-26,Home,North,Store B,2,15,81.43,5.0
+TX1208,2025-07-27,Beauty,West,Store B,4,15,126.89,3.9
+TX1209,2025-07-28,Grocery,North,Store B,4,5,62.19,4.0
+TX1210,2025-07-29,Electronics,South,Online,4,20,420.81,4.1
+TX1211,2025-07-30,Clothing,North,Store A,9,5,392.47,4.2
+TX1212,2025-07-31,Clothing,South,Online,5,10,209.24,4.1
+TX1213,2025-08-01,Grocery,North,Online,9,10,161.35,3.4
+TX1214,2025-08-02,Electronics,West,Store A,3,10,350.23,3.6
+TX1215,2025-08-03,Beauty,South,Store A,7,10,220.41,4.1
+TX1216,2025-08-04,Clothing,West,Store C,6,20,220.64,4.0
+TX1217,2025-08-05,Grocery,West,Online,2,5,29.14,3.8
+TX1219,2025-08-07,Home,East,Online,3,0,199.53,4.0
+TX1221,2025-08-09,Electronics,South,Online,2,0,188.13,5.0
+TX1222,2025-08-10,Beauty,West,Store C,9,25,196.73,4.3
+TX1223,2025-08-11,Clothing,West,Store C,1,10,37.47,3.4
+TX1224,2025-08-12,Home,North,Online,2,10,95.41,4.0
+TX1226,2025-08-14,Grocery,East,Store A,3,5,52.22,3.4
+TX1227,2025-08-15,Clothing,East,Store B,2,0,115.27,4.3
+TX1228,2025-08-16,Grocery,West,Store C,7,20,134.96,5.0
+TX1229,2025-08-17,Home,West,Store B,3,25,159.83,5.0
+TX1230,2025-08-18,Grocery,West,Online,5,10,45.75,3.7
+TX1231,2025-08-19,Grocery,South,Store B,2,10,36.3,3.9
+TX1232,2025-08-20,Grocery,East,Store B,1,5,15.23,4.3
+TX1233,2025-08-21,Home,West,Store C,2,0,184.47,4.7
+TX1234,2025-08-22,Home,East,Online,2,20,141.9,4.6
+TX1235,2025-08-23,Home,North,Store C,5,10,231.03,4.2
+TX1236,2025-08-24,Grocery,North,Store A,9,20,126.3,4.5
+TX1237,2025-08-25,Grocery,South,Store A,9,20,102.01,2.5
+TX1238,2025-08-26,Clothing,East,Online,5,20,195.8,4.6
+TX1239,2025-08-27,Beauty,West,Store B,6,15,126.13,3.0
