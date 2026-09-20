@@ -2,7 +2,7 @@
 
 ## Data Visualization, Data Preprocessing, and Statistical Analysis Using Python
 
-**Student Name:** Pranavi Balakulla  
+**Student Name:** Abhilash Reddy Marthala 
 **Course:** MSCS 634  
 **Assignment:** Lab 1  
 
