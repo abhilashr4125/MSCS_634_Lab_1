@@ -55,4 +55,3 @@ The IQR method was selected for outlier detection because the original Sales dat
 - `MSCS_634_Lab_1.ipynb` — completed Jupyter Notebook
 - `retail_sales_data.csv` — original dataset
 - `retail_sales_data_cleaned.csv` — cleaned dataset
-- `screenshots/` — screenshots of required outputs and visualizations
